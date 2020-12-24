@@ -15,6 +15,7 @@
             "v": ">0,<0"
         }
     ],
+
     "aegea": [
         {
             "advisory": "Aegea 2.2.7 avoids CVE-2018-1000805.",
