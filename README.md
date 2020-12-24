@@ -187,8 +187,8 @@ optional arguments:
 
 ```
 
-####Examples
-- #####Optional flags
+#### Examples
+- ##### Optional flags
 
   [--secure] - security check if package not secure, operation is not allowed on vulnerable package
   
@@ -246,9 +246,9 @@ optional arguments:
                         Requirements txt i/o file path, default is
                         {current_path}/requirements.txt
 ```
-####Examples
+#### Examples
 
-- #####Optional flags
+- ##### Optional flags
 
   [--secure] - security check if package not secure, operation is not allowed on vulnerable package
   
@@ -292,8 +292,8 @@ optional arguments:
                         Requirements txt i/o file path, default is
                         {current_path}/requirements.txt
 ```
-####Examples
-- #####Optional flags
+#### Examples
+- ##### Optional flags
   [-v], [--venv_dir] - Environment directory is optional if not given it uses currently active python environment.
 
 
@@ -328,8 +328,8 @@ optional arguments:
   -d DST_VENV, --dst DST_VENV
                         Destination Python environment path to migrate modules
 ```
-####Examples
-- #####Optional flags
+#### Examples
+- ##### Optional flags
 
   [--secure] - security check if package not secure, operation is not allowed on vulnerable package
   
